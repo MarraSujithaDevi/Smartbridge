@@ -90,6 +90,7 @@ traffic-volume-estimation/
 ```txt
 streamlit
 pandas
+
 numpy
 scikit-learn
 matplotlib
@@ -105,10 +106,9 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Team Members
 
-* Mahendra Bella – 22KH1A3306 [mahendrabella55@gmail.com](mailto:mahendrabella55@gmail.com)
-* Lavanya – 22KH1A3319
-* Ganesh Raju – 22KH1A3330
-* Harinath – 22KH1A3310
+* Marra Sujitha devi – 22KH1A3328 [sujithadevi666@gmail.com](mailto:sujithadevi666@gmail.com)
+*  B.Venkata Sai Meghana– 22KH1A3303
+* Shaik Kabeer – 22KH1A3337
 
 ---
 
